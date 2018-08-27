@@ -1,0 +1,7 @@
+c:\Paresh\Practise\Pract\Pract\bin\Debug\Pract.exe.config
+c:\Paresh\Practise\Pract\Pract\bin\Debug\Pract.exe
+c:\Paresh\Practise\Pract\Pract\bin\Debug\Pract.pdb
+c:\Paresh\Practise\Pract\Pract\obj\Debug\Pract.csprojResolveAssemblyReference.cache
+c:\Paresh\Practise\Pract\Pract\obj\Debug\Pract.csproj.CoreCompileInputs.cache
+c:\Paresh\Practise\Pract\Pract\obj\Debug\Pract.exe
+c:\Paresh\Practise\Pract\Pract\obj\Debug\Pract.pdb

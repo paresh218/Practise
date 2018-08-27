@@ -1,0 +1,6 @@
+c:\Paresh\Practise\Pract\Pract\bin\Debug\Pract.exe.config
+c:\Paresh\Practise\Pract\Pract\bin\Debug\Pract.exe
+c:\Paresh\Practise\Pract\Pract\bin\Debug\Pract.pdb
+c:\Paresh\Practise\Pract\Pract\obj\Debug\Method HIding.csproj.CoreCompileInputs.cache
+c:\Paresh\Practise\Pract\Pract\obj\Debug\Pract.exe
+c:\Paresh\Practise\Pract\Pract\obj\Debug\Pract.pdb
